@@ -13,7 +13,7 @@ jQuery(document).ready(function ($) {
           <td class="pdm_mbb_customer_page">${value.page}</td>
           <td class="pdm_mbb_customer_referral">${value.referral}</td>
           <td class="pdm_mbb_customer_location">
-            <img src="https://iamomarfaruk.github.io/uidemo.github.io/img/${value.location.flag}" alt=${value.location.country}>
+            <img src="https://iamomarfaruk.github.io/uidemo.github.io/img/${value.location.flag}" alt=${value.location.country}> 
             <span>${value.location.city}, ${value.location.state} ${value.location.zip}, ${value.location.country}</span>
           </td>
         </tr>
