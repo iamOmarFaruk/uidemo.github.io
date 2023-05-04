@@ -28,7 +28,7 @@ jQuery(document).ready(function ($) {
 
   // fetch the data from your JSON file
   $.ajax({
-    url: "/pdm_mbb_analytics.json",
+    url: "https://iamomarfaruk.github.io/uidemo.github.io/pdm_mbb_analytics.json",
     dataType: "json",
     success: function (response) {
       data = response;
