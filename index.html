@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>jQuery Version of Analytics</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+  <div class="pdm_mbb_analytics_wrapper">
+    <div class="pdm_mbb_anlytics_body">
+        <div class="pdm_mbb_anlytics_title">
+          <h2>Click To Convert Analytics</h2>
+        </div>
+        <table class="pdm_mbb_analytics_table">
+          <tbody>
+            <tr class="pdm_mbb_analytics_table_heading">
+              <th>Data</th>
+              <th>Actions</th>
+              <th>Pages</th>
+              <th>Referrals</th>
+              <th>Locations</th>
+            </tr>
+            <!-- loop will be there -->
+            
+            <!-- loop will be there -->
+          </tbody>
+        </table>
+        <!-- Table Close -->
+
+
+        <!-- error screen start -->
+        <div class="pdm_mbb_anlytics_error_screen" style="display:none">
+          <p> Something went wrong. Please reload the page</p>
+        </div>
+        <!-- error screen close -->
+
+        <!-- loading screen -->
+        <div class="pdm_mbb_anlytics_loading_screen">
+          <img src="/img/loading.gif" alt="pdm-mobile-bottom-bar-analytics-loading">
+        </div>
+
+        <!-- loading screen close -->
+
+
+
+        <!-- load more button start -->
+        <div class="pdm_mbb_loadmore" style="display:none">
+          <button  class="button button-primary" id="pdm_mbb_loadmore_button"><span>Load
+              More</span>
+          </button>
+        </div>
+        <!-- load more button close -->
+    </div>
+  </div>
+
+
+
+  <script src="/pdm_mbb_analytics.js"></script>
+</body>
+</html>

@@ -1,0 +1,236 @@
+[
+  { 
+    "date":"5/4/2023",
+    "action": "Email",
+    "page": "/about",
+    "referral": "purelydigitalmarketing.com",
+    "location": {
+      "flag": "united-states-of-america.png",
+      "city": "St. Augustine",
+      "state": "FL",
+      "zip": "32080",
+      "country": "USA"
+    }
+  },
+  {
+    "date": "3/4/2023",
+    "action": "SMS",
+    "page": "/home",
+    "referral": "facebook.com",
+    "location": {
+      "flag": "venezuela.png",
+      "city": "Caracas",
+      "state": "",
+      "zip": "",
+      "country": "Venezuela"
+    }
+  },
+  {
+    "date": "1/4/2023",
+    "action": "Email",
+    "page": "/services",
+    "referral": "ads.google.com",
+    "location": {
+      "flag": "united-states-of-america.png",
+      "city": "St. Augustine",
+      "state": "FL",
+      "zip": "32080",
+      "country": "USA"
+    }
+  },
+  {
+    "date": "5/4/2023",
+    "action": "SMS",
+    "page": "/home",
+    "referral": "unknow/direct visit",
+    "location": {
+      "flag": "philippines.png",
+      "city": "Manila",
+      "state": "",
+      "zip": "",
+      "country": "Philippines"
+    }
+  },
+  {
+    "date": "5/4/2023",
+    "action": "Call",
+    "page": "/contact-us",
+    "referral": "instagram.com",
+    "location": {
+      "flag": "united-states-of-america.png",
+      "city": "St. Augustine",
+      "state": "FL",
+      "zip": "32080",
+      "country": "USA"
+    }
+  },
+  {
+    "date": "5/4/2023",
+    "action": "Email",
+    "page": "/services",
+    "referral": "ads.google.com",
+    "location": {
+      "flag": "united-states-of-america.png",
+      "city": "St. Augustine",
+      "state": "FL",
+      "zip": "32080",
+      "country": "USA"
+    }
+  },
+  {
+    "date": "5/4/2023",
+    "action": "Email",
+    "page": "/about",
+    "referral": "purelydigitalmarketing.com",
+    "location": {
+      "flag": "united-states-of-america.png",
+      "city": "St. Augustine",
+      "state": "FL",
+      "zip": "32080",
+      "country": "USA"
+    }
+  },
+  {
+    "date": "5/4/2023",
+    "action": "SMS",
+    "page": "/home",
+    "referral": "facebook.com",
+    "location": {
+      "flag": "venezuela.png",
+      "city": "Caracas",
+      "state": "",
+      "zip": "",
+      "country": "Venezuela"
+    }
+  },
+  {
+    "date": "5/4/2023",
+    "action": "Email",
+    "page": "/services",
+    "referral": "ads.google.com",
+    "location": {
+      "flag": "united-states-of-america.png",
+      "city": "St. Augustine",
+      "state": "FL",
+      "zip": "32080",
+      "country": "USA"
+    }
+  },
+  {
+    "date": "5/4/2023",
+    "action": "SMS",
+    "page": "/home",
+    "referral": "unknow/direct visit",
+    "location": {
+      "flag": "philippines.png",
+      "city": "Manila",
+      "state": "",
+      "zip": "",
+      "country": "Philippines"
+    }
+  },
+  {
+    "date": "5/4/2023",
+    "action": "Call",
+    "page": "/contact-us",
+    "referral": "instagram.com",
+    "location": {
+      "flag": "united-states-of-america.png",
+      "city": "St. Augustine",
+      "state": "FL",
+      "zip": "32080",
+      "country": "USA"
+    }
+  },
+  {
+    "date": "5/4/2023",
+    "action": "Email",
+    "page": "/services",
+    "referral": "ads.google.com",
+    "location": {
+      "flag": "united-states-of-america.png",
+      "city": "St. Augustine",
+      "state": "FL",
+      "zip": "32080",
+      "country": "USA"
+    }
+  },
+  {
+    "date": "5/4/2023",
+    "action": "Email",
+    "page": "/about",
+    "referral": "purelydigitalmarketing.com",
+    "location": {
+      "flag": "united-states-of-america.png",
+      "city": "St. Augustine",
+      "state": "FL",
+      "zip": "32080",
+      "country": "USA"
+    }
+  },
+  {
+    "date": "5/4/2023",
+    "action": "SMS",
+    "page": "/home",
+    "referral": "facebook.com",
+    "location": {
+      "flag": "venezuela.png",
+      "city": "Caracas",
+      "state": "",
+      "zip": "",
+      "country": "Venezuela"
+    }
+  },
+  {
+    "date": "5/4/2023",
+    "action": "Email",
+    "page": "/services",
+    "referral": "ads.google.com",
+    "location": {
+      "flag": "united-states-of-america.png",
+      "city": "St. Augustine",
+      "state": "FL",
+      "zip": "32080",
+      "country": "USA"
+    }
+  },
+  {
+    "date": "5/4/2023",
+    "action": "SMS",
+    "page": "/home",
+    "referral": "unknow/direct visit",
+    "location": {
+      "flag": "philippines.png",
+      "city": "Manila",
+      "state": "",
+      "zip": "",
+      "country": "Philippines"
+    }
+  },
+  {
+    "date": "5/4/2023",
+    "action": "Call",
+    "page": "/contact-us",
+    "referral": "instagram.com",
+    "location": {
+      "flag": "united-states-of-america.png",
+      "city": "St. Augustine",
+      "state": "FL",
+      "zip": "32080",
+      "country": "USA"
+    }
+  },
+  {
+    "date": "5/4/2023",
+    "action": "Email",
+    "page": "/services",
+    "referral": "ads.google.com",
+    "location": {
+      "flag": "united-states-of-america.png",
+      "city": "St. Augustine",
+      "state": "FL",
+      "zip": "32080",
+      "country": "USA"
+    }
+  }
+]
